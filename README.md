@@ -12,3 +12,8 @@ There are three main files:
 # Credit
 
 This project is developed for the Introduction to Machine Learning Nanodegree by Udacity.
+
+
+# References
+https://github.com/swang13/image-classifier
+https://github.com/eleanorthomas/image_classifier/blob/master/train.py
